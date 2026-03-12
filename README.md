@@ -12,3 +12,5 @@ Apasionado por la educación, la inteligencia artificial y la tecnología.
 
 * ✉️ Email: 
 * 🌐 Web personal:
+
+## Herramientas IA https://ankhmythos.github.io/Herramientas-IA/HerramientasIA2.0.html
